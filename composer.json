@@ -1,0 +1,18 @@
+{
+    "name": "hubatka/webhook",
+    "autoload": {
+        "psr-4": {
+            "Hubatka\\Webhook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michal Hubatka",
+            "email": "michal@hubatka.cz"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}

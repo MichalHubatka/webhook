@@ -1,0 +1,1 @@
+A mini-application that receives a webhook from Slack and forwards the message to the Microsoft teams channel
